@@ -18,14 +18,12 @@ int main() {
     for (int i = 1; i < 55; i++) {
         cin >> op[i];
     }
-    vector<int> pcard(mxN);
+    vector<int> pcard(card.begin(), card.end());
     while (K--) {
         for (int i = 1; i < 55; i++) {
             pcard[op[i]] = card[i];
         }
-        for (int i = 1; i < 55; i++) {
-            card[i] = pcard[i];
-        }
+        card = pcard;
     }
     for (int i = 1; i < 55; i++) {
         if (i > 1) cout << " ";
