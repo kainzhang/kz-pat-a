@@ -15,6 +15,7 @@
 + 1040
 + 1067
 + 1119
++ 1128
 
 <hr>
 
@@ -42,6 +43,7 @@
 + [1090 Highest Price in Supply Chain](./1090-Highest-Price-in-Supply-Chain.cpp)
 + [1091 Acute Stroke](./1091-Acute-Stroke.cpp)
 + [1094 The Largest Generation](./1094-The-Largest-Generation.cpp)
++ [1126 Eulerian Path](./1126-Eulerian-Path.cpp)
 
 ## Union Find
 + [1118 Birds in Forest](./1118-Birds-in-Forest.cpp)
