@@ -25,6 +25,8 @@
 + [1086 Tree Traversals Again](./1086-Tree-Traversals-Again.cpp)
 + [1115 Counting Nodes in a BST](./1115-Counting-Nodes-in-a-BST.cpp)
 + [1119 Pre- and Post order Traversals](./1119-Pre-and-Post-order-Traversals.cpp)
++ [1130 Infix Expression](./1130-Infix-Expression.cpp)
++ [1138 Postorder Traversal](./1138-Postorder-Traversal.cpp)
 
 ## Dijkstra
 + [1003 Emergency](./1003-Emergency.cpp)
