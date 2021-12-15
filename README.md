@@ -1,9 +1,7 @@
 # PAT 甲级刷题记录
 
 **遗留题目**
-+ 1014
 + 1026
-+ 1043
 + 1045
 + 1053
 + 1068
@@ -13,14 +11,14 @@
 
 **回顾题目**
 + 1040
++ 1043
 + 1067
 + 1119
 + 1128
 
-<hr>
-
 ## Tree Traversal
 + [1020 Tree Traversals](./1020-Tree-Traversals.cpp)
++ [1043 Is It a Binary Search Tree](./1043-Is-It-a-Binary-Search-Tree.cpp)
 + [1064 Complete Binary Search Tree](./1064-Complete-Binary-Search-Tree.cpp)
 + [1086 Tree Traversals Again](./1086-Tree-Traversals-Again.cpp)
 + [1115 Counting Nodes in a BST](./1115-Counting-Nodes-in-a-BST.cpp)
@@ -61,5 +59,5 @@
 + [1098 Insertion or Heap Sort](./1098-Insertion-or-Heap-Sort.cpp)
 + [1101 Quick Sort](./1101-Quick-Sort.cpp)
 
-
-
+## Queue
++ [1014 Waiting in Line](./1014-Waiting-in-Line.cpp)
