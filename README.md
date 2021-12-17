@@ -2,7 +2,6 @@
 
 **遗留题目**
 + 1026
-+ 1045
 + 1053
 + 1068
 + 1080
@@ -12,6 +11,7 @@
 **回顾题目**
 + 1040
 + 1043
++ 1045
 + 1067
 + 1119
 + 1128
@@ -39,11 +39,15 @@
 + [1021 Deepest Root](./1021-Deepest-Root.cpp)
 + [1030 Travel Plan](./1030-Travel-Plan.cpp)
 + [1034 Head of a Gang](./1034-Head-of-a-Gang.cpp)
++ [1053 Path of Equal Weight](./1053-Path-of-Equal-Weight.cpp)
 + [1076 Forwards on Weibo](./1076-Forwards-on-Weibo.cpp)
 + [1090 Highest Price in Supply Chain](./1090-Highest-Price-in-Supply-Chain.cpp)
 + [1091 Acute Stroke](./1091-Acute-Stroke.cpp)
 + [1094 The Largest Generation](./1094-The-Largest-Generation.cpp)
 + [1126 Eulerian Path](./1126-Eulerian-Path.cpp)
+
+## DP
++ [1045 Favorite Color Stripe](./1045-Favorite-Color-Stripe.cpp)
 
 ## Union Find
 + [1118 Birds in Forest](./1118-Birds-in-Forest.cpp)
